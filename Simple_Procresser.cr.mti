@@ -1,0 +1,74 @@
+{C:/Users/dhruv/Desktop/verilog procresser/datapath.v} {1 {vlog -work work -stats=none {C:/Users/dhruv/Desktop/verilog procresser/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module datapath
+-- Compiling module vDFF1
+-- Compiling module Mux2
+-- Compiling module Mux4
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/dhruv/Desktop/verilog procresser/datapath_tb.v} {1 {vlog -work work -stats=none {C:/Users/dhruv/Desktop/verilog procresser/datapath_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module datapath_tb
+
+Top level modules:
+	datapath_tb
+
+} {} {}} {C:/Users/dhruv/Desktop/verilog procresser/cpu.v} {1 {vlog -work work -stats=none {C:/Users/dhruv/Desktop/verilog procresser/cpu.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cpu
+-- Compiling module instruction_register
+-- Compiling module decoder
+-- Compiling module control
+-- Compiling module RAM
+-- Compiling module vDFF_PC_DA
+-- Compiling module programCounter
+
+Top level modules:
+	cpu
+	RAM
+
+} {} {}} {C:/Users/dhruv/Desktop/verilog procresser/Main_procress.v} {1 {vlog -work work -stats=none {C:/Users/dhruv/Desktop/verilog procresser/Main_procress.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module main
+-- Compiling module readOrWrite
+-- Compiling module triStateBuffer
+-- Compiling module vDFF
+-- Compiling module circuitA
+-- Compiling module circuitB
+-- Compiling module sseg
+-- Compiling module sseg2
+
+Top level modules:
+	main
+	vDFF
+	sseg
+
+} {} {}} {C:/Users/dhruv/Desktop/verilog procresser/shifter.v} {1 {vlog -work work -stats=none {C:/Users/dhruv/Desktop/verilog procresser/shifter.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {C:/Users/dhruv/Desktop/verilog procresser/regfile.v} {1 {vlog -work work -stats=none {C:/Users/dhruv/Desktop/verilog procresser/regfile.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module regfile
+-- Compiling module Dec
+-- Compiling module vDFF_reg
+-- Compiling module Mux8
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/dhruv/Desktop/verilog procresser/alu.v} {1 {vlog -work work -stats=none {C:/Users/dhruv/Desktop/verilog procresser/alu.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ALU
+-- Compiling module AddSub
+-- Compiling module Adder1
+
+Top level modules:
+	ALU
+
+} {} {}}

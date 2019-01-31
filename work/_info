@@ -1,0 +1,587 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vAdder1
+Z0 !s110 1548956093
+!i10b 1
+!s100 M33kMXOTC9Re59BnEaYG72
+If[9BiJK3ah9>`YC@[]NgR1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/dhruv/Desktop/verilog procresser
+Z3 w1541383399
+Z4 8C:/Users/dhruv/Desktop/verilog procresser/alu.v
+Z5 FC:/Users/dhruv/Desktop/verilog procresser/alu.v
+L0 62
+Z6 OV;L;10.3d;59
+r1
+!s85 0
+31
+Z7 !s108 1548956093.050000
+Z8 !s107 C:/Users/dhruv/Desktop/verilog procresser/alu.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dhruv/Desktop/verilog procresser/alu.v|
+!i113 1
+Z10 o-work work
+n@adder1
+vAddSub
+R0
+!i10b 1
+!s100 L48@If^^a?aR?9]NnJAbW1
+I6=E7I4ZkEZog=BLG86<5:3
+R1
+R2
+R3
+R4
+R5
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@add@sub
+vALU
+R0
+!i10b 1
+!s100 [^iZ8dC6DCOgSnU^KLVG50
+IhTez^zF9D^QQgQQcGBA[61
+R1
+R2
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@a@l@u
+vcircuitA
+R0
+!i10b 1
+!s100 C`iYXA=R25zzajblJKzeD1
+I3`14:kO:@MJgU5Cl3h9MO3
+R1
+R2
+Z11 w1548955998
+Z12 8C:/Users/dhruv/Desktop/verilog procresser/Main_procress.v
+Z13 FC:/Users/dhruv/Desktop/verilog procresser/Main_procress.v
+L0 138
+R6
+r1
+!s85 0
+31
+Z14 !s108 1548956093.507000
+Z15 !s107 C:/Users/dhruv/Desktop/verilog procresser/Main_procress.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dhruv/Desktop/verilog procresser/Main_procress.v|
+!i113 1
+R10
+ncircuit@a
+vcircuitB
+R0
+!i10b 1
+!s100 R4fB7f^8f@PPldGV0eZCW3
+IBSTdbH7hT_VgQ1M6OkbdE1
+R1
+R2
+R11
+R12
+R13
+L0 157
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+ncircuit@b
+vcontrol
+R0
+!i10b 1
+!s100 KeMG7kd?cK^B2KC1Z<j@00
+IQnXVzf?8@2`KW>dOO5Md_0
+R1
+R2
+Z17 w1541475649
+Z18 8C:/Users/dhruv/Desktop/verilog procresser/cpu.v
+Z19 FC:/Users/dhruv/Desktop/verilog procresser/cpu.v
+L0 190
+R6
+r1
+!s85 0
+31
+Z20 !s108 1548956093.146000
+Z21 !s107 C:/Users/dhruv/Desktop/verilog procresser/cpu.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dhruv/Desktop/verilog procresser/cpu.v|
+!i113 1
+R10
+vcpu
+R0
+!i10b 1
+!s100 zN;`^E3DgnAWbWZJacin>2
+I:?Ve9e5?n>J7@i1>G2en^1
+R1
+R2
+R17
+R18
+R19
+L0 1
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vdatapath
+R0
+!i10b 1
+!s100 KD8PLJZVd^Pc4bEBoKl8h3
+IAhUjIU=<KM`Gl@Pc=9L`K3
+R1
+R2
+Z23 w1541475501
+Z24 8C:/Users/dhruv/Desktop/verilog procresser/datapath.v
+Z25 FC:/Users/dhruv/Desktop/verilog procresser/datapath.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z26 !s108 1548956093.236000
+Z27 !s107 C:/Users/dhruv/Desktop/verilog procresser/datapath.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dhruv/Desktop/verilog procresser/datapath.v|
+!i113 1
+R10
+vdatapath_tb
+R0
+!i10b 1
+!s100 Dh13^?GTzgXO??L[BV`@10
+IU3T`38?nem^59h1i<>H`=2
+R1
+R2
+R3
+8C:/Users/dhruv/Desktop/verilog procresser/datapath_tb.v
+FC:/Users/dhruv/Desktop/verilog procresser/datapath_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1548956093.369000
+!s107 C:/Users/dhruv/Desktop/verilog procresser/datapath_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dhruv/Desktop/verilog procresser/datapath_tb.v|
+!i113 1
+R10
+vDec
+R0
+!i10b 1
+!s100 18YWPR8I^n`K0in;WMRHg0
+InXP3iiFT1BziED8hU3<6T1
+R1
+R2
+Z29 w1541383400
+Z30 8C:/Users/dhruv/Desktop/verilog procresser/regfile.v
+Z31 FC:/Users/dhruv/Desktop/verilog procresser/regfile.v
+L0 36
+R6
+r1
+!s85 0
+31
+Z32 !s108 1548956093.618000
+Z33 !s107 C:/Users/dhruv/Desktop/verilog procresser/regfile.v|
+Z34 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dhruv/Desktop/verilog procresser/regfile.v|
+!i113 1
+R10
+n@dec
+vdecoder
+R0
+!i10b 1
+!s100 @:H^iTg>W8hFBSk^EPNn93
+I;O0?:2Ea?K;PzHiThA0X32
+R1
+R2
+R17
+R18
+R19
+L0 140
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vinstruction_register
+R0
+!i10b 1
+!s100 2[3LW4Fl=>>TcnNfB?:Lo3
+IIe1hJ`c]LoO5^DX30iPZ>0
+R1
+R2
+R17
+R18
+R19
+L0 123
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vmain
+R0
+!i10b 1
+!s100 <>eel@Gb:Emh]A0lQIA=l3
+ICWjUaKGV9NMi_?C6noCWT1
+R1
+R2
+R11
+R12
+R13
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vMux2
+R0
+!i10b 1
+!s100 U@PInS0ASbg@4m2`GRTA>3
+IY8N?H3fW0?oY5AjZn<ToO1
+R1
+R2
+R23
+R24
+R25
+L0 49
+R6
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R10
+n@mux2
+vMux4
+R0
+!i10b 1
+!s100 f4eW3JNfSe7TL>0A;Rmf62
+IoN@zo0c9CQclX2GComVWf2
+R1
+R2
+R23
+R24
+R25
+L0 65
+R6
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R10
+n@mux4
+vMux8
+R0
+!i10b 1
+!s100 b`UkZDKaUjUmz3fkZ^jKg1
+IbiOkk0YN`0<j9VG=;:R]T3
+R1
+R2
+R29
+R30
+R31
+L0 63
+R6
+r1
+!s85 0
+31
+R32
+R33
+R34
+!i113 1
+R10
+n@mux8
+vprogramCounter
+R0
+!i10b 1
+!s100 i9PFCVL?Q;Mfm^:?>W5m^0
+I6k8jmmnVSW6?J?;?5]XP=3
+R1
+R2
+R17
+R18
+R19
+L0 456
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+nprogram@counter
+vRAM
+R0
+!i10b 1
+!s100 3ZBAijM`gO<Mdbnm3Veef3
+I`n@2ETz7<:@d8MmXE[o1_3
+R1
+R2
+R17
+R18
+R19
+L0 418
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+n@r@a@m
+vreadOrWrite
+R0
+!i10b 1
+!s100 UgVGZ1JUHSEnTRKm9PUDI3
+IVkzz?ELBVLTRk7R`::Nn;1
+R1
+R2
+R11
+R12
+R13
+L0 102
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+nread@or@write
+vregfile
+R0
+!i10b 1
+!s100 k?9A3L5>g?h[Tn^]h1g@61
+Ihb3?@[FXaJl>Eo8HQ9z7o0
+R1
+R2
+R29
+R30
+R31
+L0 1
+R6
+r1
+!s85 0
+31
+R32
+R33
+R34
+!i113 1
+R10
+vshifter
+R0
+!i10b 1
+!s100 cjNzo2AX2kECOHmzN5cHd2
+IEWb>cNB?07eAPXRDkJH^43
+R1
+R2
+R29
+8C:/Users/dhruv/Desktop/verilog procresser/shifter.v
+FC:/Users/dhruv/Desktop/verilog procresser/shifter.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1548956092.976000
+!s107 C:/Users/dhruv/Desktop/verilog procresser/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dhruv/Desktop/verilog procresser/shifter.v|
+!i113 1
+R10
+vsseg
+R0
+!i10b 1
+!s100 ;PCO]imbO:]lBi=N`Q_YD2
+IZFni]V>V<BZZdM5<<[4_`0
+R1
+R2
+R11
+R12
+R13
+L0 183
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vsseg2
+R0
+!i10b 1
+!s100 ^Z9]VbjQ63?8`znARF8A<2
+I@XC39gZij@8BZ7Zl3Vg2o2
+R1
+R2
+R11
+R12
+R13
+L0 258
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vtriStateBuffer
+R0
+!i10b 1
+!s100 mP0^Rc?DG@?7nNNY_m^4a1
+I8?T=PdhRSzd_SF;]Nha;33
+R1
+R2
+R11
+R12
+R13
+L0 118
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+ntri@state@buffer
+vvDFF
+R0
+!i10b 1
+!s100 2PVUQY`cE?dEQ<E@=SIAO0
+IM]WIi1BTmnz]FIR3gO2cY3
+R1
+R2
+R11
+R12
+R13
+L0 126
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+nv@d@f@f
+vvDFF1
+R0
+!i10b 1
+!s100 IP3UKejZ2`ij[3aK:EET<0
+IbCjOkk2ndUd@MjN7KzIc@2
+R1
+R2
+R23
+R24
+R25
+L0 35
+R6
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R10
+nv@d@f@f1
+vvDFF_PC_DA
+R0
+!i10b 1
+!s100 0nNXHnbYRMZCj=AOe;2ZP3
+I^if^;i?BUHV1O8T3UMWMi1
+R1
+R2
+R17
+R18
+R19
+L0 442
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+nv@d@f@f_@p@c_@d@a
+vvDFF_reg
+R0
+!i10b 1
+!s100 [OF>[FHIVTJLIBY@o8M;l2
+Io=[00>b<k]>OP>m5WQDz93
+R1
+R2
+R29
+R30
+R31
+L0 47
+R6
+r1
+!s85 0
+31
+R32
+R33
+R34
+!i113 1
+R10
+nv@d@f@f_reg

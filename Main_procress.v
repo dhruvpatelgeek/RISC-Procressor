@@ -186,26 +186,7 @@ module sseg(in,segs);
 
   reg [6:0] segs;
 
-  // NOTE: The code for sseg below is not complete: You can use your code from
-  // Lab4 to fill this in or code from someone else's Lab4.  
-  //
-  // IMPORTANT:  If you *do* use someone else's Lab4 code for the seven
-  // segment display you *need* to state the following three things in
-  // a file README.txt that you submit with handin along with this code: 
-  //
-  //   1.  First and last name of student providing code
-  //   2.  Student number of student providing code
-  //   3.  Date and time that student provided you their code
-  //
-  // You must also (obviously!) have the other student's permission to use
-  // their code.
-  //
-  // To do otherwise is considered plagiarism.
-  //
-  // One bit per segment. On the DE1-SoC a HEX segment is illuminated when
-  // the input bit is 0. Bits 6543210 correspond to:
-  //
-  //    0000
+  
   //   5    1
   //   5    1
   //    6666
